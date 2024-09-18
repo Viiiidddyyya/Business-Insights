@@ -8,7 +8,7 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 
 
-[Live Report Link](https://www.novypro.com/project/atliq-hardware-business-insights-360)
+[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiM2Y1YmVjYTMtMDg2Yi00ZDAxLTk4YzYtYTNlZDBjM2VkNTU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Tech stacks
 
@@ -212,7 +212,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ![Products](https://github.com/Viiiidddyyya/Business-Insights/blob/main/Resource/Products%20View.gif)
 
-you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
+you can find the full report file here : [Report](https://app.powerbi.com/view?r=eyJrIjoiM2Y1YmVjYTMtMDg2Yi00ZDAxLTk4YzYtYTNlZDBjM2VkNTU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 ## Project Outcome
